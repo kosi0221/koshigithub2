@@ -23,7 +23,7 @@ var shapes = [
 ];
 var colors = [
     'cyan', 'orange', 'skyblue', 'yellow', 'red', 'lime', 'purple'
-];
+]
 
 // creates a new 4x4 shape in global variable 'current'
 // 4x4 so as to cover the size when the shape is rotated
